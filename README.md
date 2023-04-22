@@ -91,7 +91,10 @@ make all
 ```shell
 make
 ```
-
+## the workshop screenshots
+![screenshot of the app](./imgs/1.png)
+![screenshot of the app](./imgs/2.png)
+![screenshot of the app](./imgs/3.png)
 ## License
 
 The source code is licensed under the [MIT license](LICENSE).
